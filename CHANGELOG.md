@@ -2,3 +2,4 @@
 
 ### Added
 - Feature isEmail(email)
+- Feature passwordStrength(password)
